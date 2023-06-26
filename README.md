@@ -33,7 +33,7 @@ To get started using abTEM, please visit our [walkthrough](https://abtem.readthe
 
 To try abTEM in your web browser, please click on the following Binder link:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jacobjma/abTEM/master?filepath=examples%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alex-rakowski/abTEM/master?filepath=examples%2Findex.ipynb)
 
 ## Citing abTEM
 
