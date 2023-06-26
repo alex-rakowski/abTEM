@@ -1,4 +1,4 @@
-git+git://github.com/abTEM/abTEM@master#egg=abTEM
+git+git://github.com/abTEM/abTEM@master
 bqplot
 bqplot-image-gl
 
